@@ -1,0 +1,6 @@
+@isolated_cache_poc_HostAddress = http://localhost:5249
+
+GET {{isolated_cache_poc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
